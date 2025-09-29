@@ -5,13 +5,13 @@ I wrote this app using TypeScript only.
 PLEASE NOTE that the app and all its comments are in Italian.
 
 To see the app you can:
-1. download the source code, run it in your IDE of choice and compile the TypeScript files into JavaScripts, then open the "index.html" file in your browser - you'll see how the code works from the console in your web browser ("Inspect" on Google Chrome, "Analize" on Firefox etc.)<br>
+1. download the source code, run it in your IDE of choice to compile the TypeScript files into JavaScripts and then open the "index.html" file in your browser - you'll see how the code works from the console in your web browser ("Inspect" on Google Chrome, "Analize" on Firefox etc.)<br>
    -> since you've arrived here, I assume you know very well how transpiling TypeScript files into JavaScript works, but just in case you didn't know here's a quick guide on how to compile this code:<br>
    a. download the source code and open it in your IDE;<br>
    b. inside the project folder, open your preferred terminal (like Command Prompt or Git Bash);<br>
    c. from the terminal, move to the "ts" folder inside the "assets" one (type "cd assets" and then "cd ts" in the command line, if you want to do it the long way);<br>
    d. compile the project typing "tsc" in the command line (do it while you're inside the "ts" folder): you will see that a new folder called "dist" has appeared - that's the folder where all the transpiled JavaSctipt files are;<br>
-   e. now that the project is ready, you can open the "index.html" file in your preferred browser and see how the code works from the browser console.<br>
+   e. now that the project is ready, you can open the "index.html" file in your preferred browser and see how the code works from the browser console;<br>
 
 2. go to the Codepen page of the project and see it compiling live on the console: https://codepen.io/carlaisabelle/pen/WbrbWZz;
 
