@@ -13,7 +13,7 @@ To see the app you can:
    d. compile the project typing "tsc" in the command line (do it while you're inside the "ts" folder): you will see that a new folder called "dist" has appeared - that's the folder where all the transpiled JavaSctipt files are;<br>
    e. now that the project is ready, SAVE everything: you can now open the "index.html" file in your preferred browser and see how the code works from the browser console;<br>
 
-2. go to the Codepen page of the project and see it compiling live on the console: https://codepen.io/carlaisabelle/pen/WbrbWZz;
+2. go to the Codepen page of the project and see it compiling live: https://codepen.io/carlaisabelle/pen/WbrbWZz;
 
 3. if you are only intreseted in seeing what the code can do, but you don't want to see the source code, you can go to this website and see it in the console of your browser: https://rococo-puppy-06d138.netlify.app/.
 
