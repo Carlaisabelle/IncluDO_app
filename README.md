@@ -17,4 +17,4 @@ To see the app you can:
 
 3. if you are only intreseted in seeing what the code can do, but you don't want to see the source code, you can go to this website and see it in the console of your browser: https://rococo-puppy-06d138.netlify.app/.
 
-I hope you'll enjoy my work! If you have any enquiries, feel free to contact me!
+I hope you'll enjoy my work! If you have any enquiries, feel free to shoot me an email: contatto.manavellacarla@gmail.com.
